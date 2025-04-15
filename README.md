@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arsenal&size=38&pause=1000&color=F796D8&background=FFFFFF00&width=435&lines=Hello%2C+my+name+is+Samira!)](https://git.io/typing-svg)
 
-<br> - 👀 Software Engineer/Entrepreneur that enjoys learning and innovating.<br> - 🌱 Studied Computer Science at Florida International University in Miami, Florida.<br> - 🌺 I’m looking to collaborate on building applications and creating positive change through all my work experiences.<br> - 💭 Currently learning about Machine Learning/AI.<br> - 📫 How to reach me: smasr008@fiu.edu
+<br> - 👀 Software Engineer/Entrepreneur that enjoys learning and innovating.<br> - 🌱 Studied Computer Science at Florida International University in Miami, Florida.<br> - 🌺 I’m looking to collaborate on building applications and creating positive change through all my work experiences.<br> - 💭 Currently learning about Machine Learning/AI and building a business from scratch<br> - 📫 How to reach me: smasr008@fiu.edu
 
 
 ## 🌐 Socials:
